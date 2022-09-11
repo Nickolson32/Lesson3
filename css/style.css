@@ -1,5 +1,10 @@
 body{
     color: black;
+    font-size: 18px;
+}
+.header__list{
+    font-size: 22px;
+    
 }
 .hero__title{
     color: red;
@@ -25,6 +30,9 @@ a{
     text-decoration: none;
 }
 
+.how__work .title{
+    color: brown;
+}
 .header__list{
     color: inherit;
 }
