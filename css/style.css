@@ -1,0 +1,41 @@
+body{
+    color: black;
+}
+.hero__title{
+    color: red;
+    text-align: center;
+    font-size: 32px;
+}
+
+.hero__title span{
+    color: black;
+    font-size: 35px;
+}
+
+.title{
+    color: blue;
+    text-align: center;
+}
+
+.about a{
+    color: red;
+    font-size: 32px;
+}
+a{
+    text-decoration: none;
+}
+
+.header__list{
+    color: inherit;
+}
+
+.li-color ~ li{
+    color: teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.li-style + li{
+    color: blueviolet;
+    text-decoration: dotted;
+    font-style: italic;
+}
